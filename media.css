@@ -2,9 +2,7 @@
     img{
         width: 100%;
     }
- body{
-    padding: 2rem;
- }
+
   
     .container{
         display: flex;
@@ -26,9 +24,26 @@
         display: flex;
     flex-direction: column;
 justify-content: center;
-align-items: center;    }
+align-items: center;   
+margin:1rem ;
+}
 .header{
     margin-bottom: 2rem;
     font-size: 3rem;
+
 }
+
+
+.cart-info{
+    margin: 1rem auto;
+}
+.cards{
+    max-width: 100%;
+    margin:0 1rem;
+}
+
+
+
+
+
 }
